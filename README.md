@@ -30,8 +30,8 @@
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Gentoo](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
-![Gnu Guix](https://img.shields.io/badge/Gnu-0D1117?style=for-the-badge&logo=gnu&labelColor=0D1117)&nbsp;
+![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 ---
