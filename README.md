@@ -19,8 +19,7 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Certificações)](https://git.io/typing-svg)
-<a href="[https://www.credly.com/badges/1b7fb988-f37b-4d8d-9190-c1d8e4368813/linked_in_profile]"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width: 160px; height: 160px;"></a><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E4B7241F5C7E43335F084CFABCA71EE731713AE3785457668C44641D0A1F2414"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="Certificate" style="width: 300px; height: 160px;"></a>
-
+<a href="[https://www.credly.com/badges/1b7fb988-f37b-4d8d-9190-c1d8e4368813/linked_in_profile]"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width: 160px; height: 160px;"></a><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E4B7241F5C7E43335F084CFABCA71EE731713AE3785457668C44641D0A1F2414"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="Certificate" style="width: 300px; height: 160px;"></a><a href="https://www.credly.com/earner/earned/badge/57777913-4c83-43b1-b0b2-03b87cbf00a0"><img src="https://github.com/user-attachments/assets/d3609f9f-b612-4e7a-bb32-414068335a8f" alt="Certificate" style="width: 180px; height: 160px;"></a>
 
 
 ---
