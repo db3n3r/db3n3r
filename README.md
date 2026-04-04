@@ -1,16 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91ffb&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+David+Bener;Analista+de+Infraestrutura)](https://git.io/typing-svg)
-
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=db3n3r&label=Profile%20views&color=0e75b6&style=flat" alt="db3n3r" /> </p>
 
 
+##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=db3n3r&bg_color=00000000&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=db3n3r&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=db3n3r&theme=transparent" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=db3n3r&theme=transparent" />
+</p>
 
 
 
----
+
+##
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Certificações" alt="Certificações">
@@ -24,22 +28,22 @@
   <a href="https://www.credly.com/badges/29dd988e-1c46-47ec-aa3c-e015554df75e/linked_in_profile"><img src="https://github.com/user-attachments/assets/83f00e45-036a-42aa-ae45-f285e811af44" width="140" alt="Ethical Hacker"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/2e3711d5-3f81-4bad-ab01-8fe49e4e5fa4/linked_in_profile"><img src="https://github.com/user-attachments/assets/25bccd20-35c0-4fc0-957d-e1e471411e34" width="140" alt="Fortinet FCA"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/earner/earned/badge/67c107f0-0618-4af8-93ad-c3e8529b59fe"><img src="https://github.com/user-attachments/assets/8be58aed-39ad-42d9-8808-1bb72164e2b1" width="140" alt="Fortinet NSE3"></a>
 </div>
 
----
+##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+&+Ferramentas)](https://git.io/typing-svg)
 
 <div align="center">
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+  <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/354152/oracle.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" />
+  <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/452091/python.svg" />
+  
+</div>
 
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Links)](https://git.io/typing-svg)
-
-<div align="center">
-<a href="mailto:contato@davidbener.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/davidbener/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><a href="https://github.com/db3n3r/"><img src="https://img.shields.io/badge/Git-%23.svg?&style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git"/></a><a href="https://davidbener.com"><img src="https://img.shields.io/badge/websites-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=purple" alt="websites"/></a>
 </div>
 
 
