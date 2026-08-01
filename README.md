@@ -24,8 +24,9 @@
   
   <br><br>
 
-  <a href="https://www.credly.com/badges/29dd988e-1c46-47ec-aa3c-e015554df75e/linked_in_profile"><img src="https://github.com/user-attachments/assets/83f00e45-036a-42aa-ae45-f285e811af44" width="140" alt="Ethical Hacker"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/2e3711d5-3f81-4bad-ab01-8fe49e4e5fa4/linked_in_profile"><img src="https://github.com/user-attachments/assets/25bccd20-35c0-4fc0-957d-e1e471411e34" width="140" alt="Fortinet FCA"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/earner/earned/badge/67c107f0-0618-4af8-93ad-c3e8529b59fe"><img src="https://github.com/user-attachments/assets/8be58aed-39ad-42d9-8808-1bb72164e2b1" width="140" alt="Fortinet NSE3"></a>
+  <a href="https://www.credly.com/badges/29dd988e-1c46-47ec-aa3c-e015554df75e/linked_in_profile"><img src="https://github.com/user-attachments/assets/83f00e45-036a-42aa-ae45-f285e811af44" width="140" alt="Ethical Hacker"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/2e3711d5-3f81-4bad-ab01-8fe49e4e5fa4/linked_in_profile"><img src="https://github.com/user-attachments/assets/25bccd20-35c0-4fc0-957d-e1e471411e34" width="140" alt="Fortinet FCA"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/earner/earned/badge/67c107f0-0618-4af8-93ad-c3e8529b59fe"><img src="https://github.com/user-attachments/assets/d23028a5-40b5-4361-af8f-d183b6c13976" width="140" alt="Fortinet NSE3"></a>
 </div>
+
 
 ##
 
